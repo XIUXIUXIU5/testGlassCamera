@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="camera_preview" type="id"/>
+    <item name="camera_rdt_overlay" type="id"/>
+    <item name="camera_plant_overlay" type="id"/>
+</resources>

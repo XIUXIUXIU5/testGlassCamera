@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/shaolei/Desktop/WInter%202015/ozcan/java/andriod%20camera%20project/Android-Camera-Example-master2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/shaolei/Desktop/WInter%202015/ozcan/java/andriod%20camera%20project/Android-Camera-Example-master2/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="camera_plant_overlay" type="id"/>
+    <item name="camera_preview" type="id"/>
+    <item name="camera_rdt_overlay" type="id"/>
+    <!-- From: file:/Users/shaolei/Desktop/WInter%202015/ozcan/java/andriod%20camera%20project/Android-Camera-Example-master2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CameraExample</string>
+    <string name="btn_capture">Click</string>
+    <string name="camera_not_found">No camera harware found</string>
+    <string name="hello">Hello World, CamTestActivity!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

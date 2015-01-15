@@ -1,0 +1,1 @@
+/Users/shaolei/Desktop/WInter 2015/ozcan/java/andriod camera project/Android-Camera-Example-master2/app/build/intermediates/classes/debug
